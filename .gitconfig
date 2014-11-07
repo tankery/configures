@@ -1,0 +1,17 @@
+[alias]
+	co = checkout
+	ci = commit
+	rb = rebase
+	sa = status
+
+[core]
+	editor = vim
+[color]
+	branch = auto
+	diff = auto
+	grep = auto
+	status = auto
+	ui = auto
+[user]
+	email = tankery.chen@gmail.com
+	name = Tankery Chen
